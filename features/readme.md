@@ -26,3 +26,4 @@ client.on('ready', () => {
 
 client.login('YOUR TOKEN HERE')
 ```
+For more, refer to [Documentation](https://docs.wornoffkeys.com/)
